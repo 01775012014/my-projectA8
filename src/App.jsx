@@ -1,41 +1,20 @@
-// import { BrowserRouter, Routes, Route } from 'react-router-dom'
-// import './App.css'
-// import Navbar from './componen/Home/Navbar/NavBar'
-// import Footer from './componen/Home/Footr/Fottor'
-// import Banner from './componen/Home/bannar/Banner'
-
-
-// const Home = () => {
-//   return (
-//     <>
-//       <Banner />
-//     </>
-//   )
-// }
-
-// function App() {
-//   return (
-//     <BrowserRouter>
-//       <Navbar />
-//       <Footer />
-      
-      
-//     </BrowserRouter>
-//   )
-// }
-
-// export default App
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './App.css'
 import Navbar from './componen/Home/Navbar/NavBar'
 import Footer from './componen/Home/Footr/Fottor'
 import Banner from './componen/Home/bannar/Banner'
+import { GiDoctorFace } from 'react-icons/gi'
+import DoctorsSection from './componen/Home/OurBestDoctors/DataFace'
+import SuccessSection from './componen/Home/Medical Services/Success'
+
 
 const Home = () => {
   return (
     <div>
       <Banner />
+      <DoctorsSection/>
+      <SuccessSection/>
     </div>
   )
 }

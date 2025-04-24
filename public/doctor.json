@@ -1,0 +1,135 @@
+
+[
+  {
+    "id": 1,
+    "image": "https://i.postimg.cc/zDgtNpTX/doctor1.jpg",
+    "name": "Dr. Sarah Johnson",
+    "education": "MD, Harvard Medical School",
+    "speciality": "Cardiology",
+    "experience": "12 years",
+    "registrationNumber": "CARD-12345",
+    "detailsRoute": "/doctors/sarah-johnson",
+    "fee": "$129"
+  },
+  {
+    "id": 2,
+    "image": "https://i.postimg.cc/VvhmXgLN/doctor2.jpg",
+    "name": "Dr. Michael Chen",
+    "education": "PhD Neurology, Johns Hopkins University",
+    "speciality": "Neurology",
+    "experience": "8 years",
+    "registrationNumber": "NEURO-67890",
+    "detailsRoute": "/doctors/michael-chen",
+    "fee": "$143"
+  },
+  {
+    "id": 3,
+    "image": "https://i.postimg.cc/vBnPVn1Q/doctor-sample.png",
+    "name": "Dr. Emily Wilson",
+    "education": "MD Pediatrics, Stanford University",
+    "speciality": "Pediatrics",
+    "experience": "15 years",
+    "registrationNumber": "PED-54321",
+    "detailsRoute": "/doctors/emily-wilson",
+    "fee": "$215"
+  },
+  {
+    "id": 4,
+    "image": "https://i.postimg.cc/44VDPXL5/doctor4.jpg",
+    "name": "Dr. Robert Garcia",
+    "education": "MD Orthopedics, Mayo Clinic",
+    "speciality": "Orthopedic Surgery",
+    "experience": "10 years",
+    "registrationNumber": "ORTHO-98765",
+    "detailsRoute": "/doctors/robert-garcia",
+    "fee": "$245"
+  },
+  {
+    "id": 5,
+    "image": "https://i.postimg.cc/59Dw4VbZ/doctor5.jpg",
+    "name": "Dr. Priya Patel",
+    "education": "MD Dermatology, UCLA",
+    "speciality": "Dermatology",
+    "experience": "7 years",
+    "registrationNumber": "DERM-45678",
+    "detailsRoute": "/doctors/priya-patel",
+    "fee": "$135"
+  },
+  {
+    "id": 6,
+    "image": "https://i.postimg.cc/YCD27pwF/doctor6.jpg",
+    "name": "Dr. James Thompson",
+    "education": "MD Oncology, MD Anderson Cancer Center",
+    "speciality": "Oncology",
+    "experience": "14 years",
+    "registrationNumber": "ONCO-23456",
+    "detailsRoute": "/doctors/james-thompson",
+    "fee": "$325"
+  },
+  {
+    "id": 7,
+    "image": "https://i.postimg.cc/qvbd61zj/doctor7.jpg",
+    "name": "Dr. Linda Martinez",
+    "education": "MD Endocrinology, University of Michigan",
+    "speciality": "Endocrinology",
+    "experience": "11 years",
+    "registrationNumber": "ENDO-32145",
+    "detailsRoute": "/doctors/linda-martinez",
+    "fee": "$225"
+  },
+  {
+    "id": 8,
+    "image": "https://i.postimg.cc/GtC0nN5h/doctor8.jpg",
+    "name": "Dr. Ahmed Khan",
+    "education": "MD Gastroenterology, Cleveland Clinic",
+    "speciality": "Gastroenterology",
+    "experience": "9 years",
+    "registrationNumber": "GASTRO-99887",
+    "detailsRoute": "/doctors/ahmed-khan",
+    "fee": "$129"
+  },
+  {
+    "id": 9,
+    "image": "https://i.postimg.cc/KvmX96T0/doctor9.jpg",
+    "name": "Dr. Sophie Lee",
+    "education": "MD Psychiatry, Yale University",
+    "speciality": "Psychiatry",
+    "experience": "13 years",
+    "registrationNumber": "PSYCH-88990",
+    "detailsRoute": "/doctors/sophie-lee",
+    "fee": "$185"
+  },
+  {
+    "id": 10,
+    "image": "https://i.postimg.cc/GmpWRvqY/doctor10.jpg",
+    "name": "Dr. Carlos Ramirez",
+    "education": "MD Pulmonology, UCSF",
+    "speciality": "Pulmonology",
+    "experience": "10 years",
+    "registrationNumber": "PULMO-11447",
+    "detailsRoute": "/doctors/carlos-ramirez",
+    "fee": "$145"
+  },
+  {
+    "id": 11,
+    "image": "https://i.postimg.cc/8znqzs0Y/doctor11.jpg",
+    "name": "Dr. Naomi Suzuki",
+    "education": "MD Rheumatology, Kyoto University",
+    "speciality": "Rheumatology",
+    "experience": "6 years",
+    "registrationNumber": "RHEUM-66778",
+    "detailsRoute": "/doctors/naomi-suzuki",
+    "fee": "$225"
+  },
+  {
+    "id": 12,
+    "image": "https://i.postimg.cc/XJ9hLLYM/doctor12.jpg",
+    "name": "Dr. Daniel White",
+    "education": "MD Urology, Duke University",
+    "speciality": "Urology",
+    "experience": "12 years",
+    "registrationNumber": "URO-45599",
+    "detailsRoute": "/doctors/daniel-white",
+    "fee": "$125"
+  }
+]
