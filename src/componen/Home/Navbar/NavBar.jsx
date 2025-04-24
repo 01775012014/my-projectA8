@@ -33,8 +33,8 @@ const Navbar = () => {
           <Link to="/blogs" className="text-gray-700 hover:text-blue-600">
             Blogs
           </Link>
-          <Link to="/about" className="text-gray-700 hover:text-blue-600">
-            About
+          <Link to="/Contact" className="text-gray-700 hover:text-blue-600">
+          Contact
           </Link>
         </div>
 
@@ -48,7 +48,7 @@ const Navbar = () => {
 
         
         <div className="md:hidden">
-          <button onClick={toggleMenu}>
+          <button onClick={toggleMenu }>
             {isMenuOpen ? <FaTimes size={24} /> : <FaBars size={24} />}
           </button>
         </div>
