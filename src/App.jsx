@@ -1,4 +1,3 @@
-
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './App.css'
 import Navbar from './componen/Home/Navbar/NavBar'
@@ -7,6 +6,10 @@ import Banner from './componen/Home/bannar/Banner'
 import { GiDoctorFace } from 'react-icons/gi'
 import DoctorsSection from './componen/Home/OurBestDoctors/DataFace'
 import SuccessSection from './componen/Home/Medical Services/Success'
+import MyBookingsPage from './componen/MyBokingPage/MyBoking'
+import DoctorDetailsPage from './componen/Home/DoctorDetails/DoctorDetailsPage'
+import BlogsPage from './componen/BlogePag/BlogePage'
+import ErrorPage from './componen/ErrorPage/ErrorPage'
 
 
 const Home = () => {
@@ -27,9 +30,11 @@ function App() {
         <main className="flex-grow">
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/my-bookings" element={<h1>My Bookings</h1>} />
-            <Route path="/blogs" element={<h1>Blogs</h1>} />
-            <Route path="/about" element={<h1>About</h1>} />
+            <Route path="/doctors/:id" element={<DoctorDetailsPage />} />
+            <Route path="/my-bookings" element={<MyBookingsPage/>} />
+            <Route path="/blogs" element={<BlogsPage />} />
+            <Route path="/about" element={<ErrorPage />} />
+            <Route path="*" element={<ErrorPage />} />
           </Routes>
         </main>
         <Footer />

@@ -9,7 +9,7 @@
     "experience": "12 years",
     "registrationNumber": "CARD-12345",
     "detailsRoute": "/doctors/sarah-johnson",
-    "fee": "$129"
+    "fee": "$329"
   },
   {
     "id": 2,
@@ -42,7 +42,7 @@
     "experience": "10 years",
     "registrationNumber": "ORTHO-98765",
     "detailsRoute": "/doctors/robert-garcia",
-    "fee": "$245"
+    "fee": "$445"
   },
   {
     "id": 5,
@@ -53,7 +53,7 @@
     "experience": "7 years",
     "registrationNumber": "DERM-45678",
     "detailsRoute": "/doctors/priya-patel",
-    "fee": "$135"
+    "fee": "$435"
   },
   {
     "id": 6,
@@ -75,7 +75,7 @@
     "experience": "11 years",
     "registrationNumber": "ENDO-32145",
     "detailsRoute": "/doctors/linda-martinez",
-    "fee": "$225"
+    "fee": "$525"
   },
   {
     "id": 8,
@@ -86,7 +86,7 @@
     "experience": "9 years",
     "registrationNumber": "GASTRO-99887",
     "detailsRoute": "/doctors/ahmed-khan",
-    "fee": "$129"
+    "fee": "$629"
   },
   {
     "id": 9,
@@ -97,7 +97,7 @@
     "experience": "13 years",
     "registrationNumber": "PSYCH-88990",
     "detailsRoute": "/doctors/sophie-lee",
-    "fee": "$185"
+    "fee": "$685"
   },
   {
     "id": 10,
@@ -108,7 +108,7 @@
     "experience": "10 years",
     "registrationNumber": "PULMO-11447",
     "detailsRoute": "/doctors/carlos-ramirez",
-    "fee": "$145"
+    "fee": "$745"
   },
   {
     "id": 11,
@@ -119,7 +119,7 @@
     "experience": "6 years",
     "registrationNumber": "RHEUM-66778",
     "detailsRoute": "/doctors/naomi-suzuki",
-    "fee": "$225"
+    "fee": "$125"
   },
   {
     "id": 12,
@@ -130,6 +130,6 @@
     "experience": "12 years",
     "registrationNumber": "URO-45599",
     "detailsRoute": "/doctors/daniel-white",
-    "fee": "$125"
+    "fee": "$625"
   }
 ]
